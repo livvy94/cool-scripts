@@ -1,0 +1,47 @@
+ANIME BOOKMARKS TOOL
+
+Loads a pipe-separated file
+Creates a new one if it doesn't exist
+
+
+DATABASE: (use a dict, save to TOML! https://realpython.com/python-toml/) 
+  Display Title
+  URL
+
+
+MAIN DISPLAY
+Anime & Manga Bookmarks
+01 - Fantasy Knockout
+02 - Magical Circle Guru-Guru
+03 - Birdy the Mighty
+
+#: Type a number!
+A: Add New
+
+
+ADD DISPLAY
+-----------
+Input type:
+A: Anime (default)
+M: Manga
+
+Display name?
+_
+
+Totally Legal URL of where you left off:
+_
+(saves ur info to txt file! uwu)
+
+
+ANIME DISPLAY
+-------------
+Magical Circle Guru-Guru
+
+G: Go!
+U: Update URL
+
+
+UPDATE URL DISPLAY
+------------------
+Paste in the new URL: _
+
