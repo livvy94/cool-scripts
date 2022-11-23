@@ -1,6 +1,6 @@
-## This is a collection of a bunch of stuff I have on my raspberry pi
+# This is a collection of a bunch of stuff I have on my raspberry pi
 
-Sites that look cool when viewed in [ELinks](http://elinks.or.cz/)!
+## Sites that look cool when viewed in [ELinks](http://elinks.or.cz/)!
 
 Add this list to the neocities page (after everything's been migrated over...)
 
@@ -10,12 +10,12 @@ Add this list to the neocities page (after everything's been migrated over...)
 - [koko's shrine](http://alt.kokoscript.com/)
 - [softheartclinic](https://softheartclinic.neocities.org/home.html)
 
-This is cool check it out later:
+## This is cool check it out later:
 
 - [heckscaper plugins](https://heckscaper.com/plugins/)
 - [ita.toys](https://ita.toys/)
 
-Ideas for more stuff to add to my neocities!
+## Ideas for more stuff to add to my neocities!
 
 - Record & CD collection
 - DVD collection?
@@ -30,6 +30,8 @@ Ideas for more stuff to add to my neocities!
 - [raccoon](http://davemalloy.com/raccoon.html)
 - More summaries of github repos
 
-Figure out how to do cool frame shit. look at how gorgeous [this site](https://neoratz.neocities.org/about.html) is!!!!
+## Figure out how to do cool frame shit.
+
+Look at how gorgeous [this site](https://neoratz.neocities.org/about.html) is!!!!
 
 Also [this](https://cabbagesorter.neocities.org/)!!!
