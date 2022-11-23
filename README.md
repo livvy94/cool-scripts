@@ -9,6 +9,7 @@ Add this list to the neocities page (after everything's been migrated over...)
 - [invisibleup](http://invisibleup.com/articles/)
 - [koko's shrine](http://alt.kokoscript.com/)
 - [softheartclinic](https://softheartclinic.neocities.org/home.html)
+- probably every [neocities](https://neocities.org/) site EVER
 
 ## This is cool check it out later:
 
