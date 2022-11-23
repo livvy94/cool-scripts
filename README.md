@@ -24,7 +24,6 @@ Add this list to the neocities page (after everything's been migrated over...)
 - More bandcamp albums! I have more of them now!
 - Database of stuff I've done! (SPC downloads?)
 - Add a page for everyone on my Inspiration/YouTube featured channels
-  - WheezyWaiter, vlogbrothers, charlieissocoollike, fiveawesomeguys, so many cool channels I grew up with
 - http://starmen.net/cult
 - animation and drawing attempts
 - [raccoon](http://davemalloy.com/raccoon.html)
