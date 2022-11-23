@@ -4,7 +4,7 @@ Loads a pipe-separated file
 Creates a new one if it doesn't exist
 
 
-DATABASE: (use a dict, save to TOML! https://realpython.com/python-toml/) 
+DATABASE:
   Display Title
   URL
 
@@ -44,4 +44,3 @@ U: Update URL
 UPDATE URL DISPLAY
 ------------------
 Paste in the new URL: _
-
