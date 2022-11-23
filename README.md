@@ -4,15 +4,16 @@ Sites that look cool when viewed in [ELinks](http://elinks.or.cz/)!
 
 Add this list to the neocities page (after everything's been migrated over...)
 
-[FrogFind](http://www.frogfind.com)
-[68k news](http://68k.news/)
-[invisibleup](http://invisibleup.com/articles/)
-[koko's shrine](http://alt.kokoscript.com/)
-[softheartclinic](https://softheartclinic.neocities.org/home.html)
+- [FrogFind](http://www.frogfind.com)
+- [68k news](http://68k.news/)
+- [invisibleup](http://invisibleup.com/articles/)
+- [koko's shrine](http://alt.kokoscript.com/)
+- [softheartclinic](https://softheartclinic.neocities.org/home.html)
 
 This is cool check it out later:
-[heckscaper plugins](https://heckscaper.com/plugins/)
-[ita.toys](https://ita.toys/)
+
+- [heckscaper plugins](https://heckscaper.com/plugins/)
+- [ita.toys](https://ita.toys/)
 
 Ideas for more stuff to add to my neocities!
 
