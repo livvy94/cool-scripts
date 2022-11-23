@@ -14,6 +14,7 @@ alias goroot='cd /'
 
 alias python='python3'
 alias pip='pip3'
+alias requirements='pip install -r requirements.txt'
 
 #Git Stuff
 alias gsui='git submodule sync;git submodule update --init'
